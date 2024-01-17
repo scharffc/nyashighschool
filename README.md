@@ -7,7 +7,7 @@ TBD
 ## Software
 
 * Python
-* (https://replit.com)[Repl]
+* [https://replit.com](Repl)
   
 ## Slides
 
