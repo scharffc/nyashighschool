@@ -1,9 +1,11 @@
 # NY Academy of Science Program
 
+## Program
+
 ## Software
 
 * Python
-* (https://replit.com/)[Repl]
+* [https://replit.com/](Repl)
   
 ## Slides
 
