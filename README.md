@@ -1,6 +1,6 @@
 # NY Academy of Science Program
 
-![img1](https://github.com/scharffc/nyashighschool/blob/main/images/IMG_0967.jpg)
+![img1](https://github.com/scharffc/nyashighschool/blob/main/images/IMG_0967.jpg) ![img2](https://github.com/scharffc/nyashighschool/blob/main/images/IMG_2035.jpg)
 
 ## Schedule
 
