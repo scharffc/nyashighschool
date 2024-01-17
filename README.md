@@ -1,5 +1,7 @@
 # NY Academy of Science Program
 
+[img1](https://github.com/scharffc/nyashighschool/blob/main/images/IMG_0967.jpg)
+
 ## Schedule
 
 TBD
