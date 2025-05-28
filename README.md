@@ -1,6 +1,6 @@
 # NY Academy of Science Program
 
-This repo is used to present the work covered in the NY Academy of Science Program that pairs a high school teacher (here Dora) with a Scientist-in-Residence (here Christelle) to introduce them to science. In this program, high students of Frank Mc Court were introduced to Python, worked on the Billion Oyster Data and Air Quality Data collected at their school, and presented their work.
+This repo is used to present the work covered in the NY Academy of Science Program that pairs a high school teacher (here Dora) with a Scientist-in-Residence (here Christelle) to introduce high school stuents to science. In this program, high students of Frank Mc Court were introduced to Python, worked on the Billion Oyster Data and Air Quality Data collected at their school, and presented their work.
 
 ![img1](https://github.com/scharffc/nyashighschool/blob/main/images/IMG_0967.jpg) ![img2](https://github.com/scharffc/nyashighschool/blob/main/images/IMG_2035.jpg)
 
